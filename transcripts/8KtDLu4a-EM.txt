@@ -1,0 +1,254 @@
+so i'm really having this 14-inch laptop
+space because there are some really good
+products on the market right now the
+macbook pro 14 if you want something
+that's catered towards creators and
+designers there's the blade 14 the g14
+both amazing gaming laptops there's also
+the x14 by alienware but we don't touch
+that one it's no bueno compared to these
+two if we're talking about design and
+build quality personally i think the
+blade 14 is built better like this is
+entirely aluminum even on the bottom it
+just feels super solid compared to the
+g14 you have plastic bits on the bottom
+which takes away from the appeal don't
+get me wrong it still feels very premium
+but there's just this allure to the
+blade 14 that the g14 doesn't have they
+both weigh about the same slightly
+heavier with the blade but the g14 is a
+bit thicker and because it's using that
+16 by 10 aspect ratio the laptop itself
+is deeper now to me the little things
+are important and one thing you'll
+notice if you have both laptops is that
+the hinge on the blade 14 is way tighter
+like it just feels
+nice and strong you open up the display
+there's very little wobble to it whereas
+the g14 tends to wobble a bit more it's
+not bad it's not a major concern but
+there's a difference between these two
+laptops the other thing is when you
+close it and again this is a little
+thing not a big deal to most but when
+you close the g14
+this is what it sounds like when you
+close the blade 14
+that's what it sounds like it really
+reminds me of how you close a macbook
+pro and the sound of it is less than
+most other laptops again stupid because
+you can simply just close your laptop
+very slowly and never hear it but some
+of you out there are pretty aggressive
+when you close the displays and the
+blade 14 does sound quieter ports are
+almost identical they both have two
+usb-a ports two usb type-c ports hdmi
+2.1 ports you have the audio jack the
+only difference is that the g14 comes
+with a micro sd card slot if you want to
+insert external storage the other thing
+i prefer with the blade is that the
+ports are at the back
+side of the laptop
+compared to the front side of the laptop
+like they have on the g14 their vents
+happen to be at the back so
+cables are going to be closer to you
+rather than further away ideally in the
+perfect world i'd love to have all the
+ports on the back but it's obviously not
+capable with this style of design but
+the one area that the g14 starts to win
+out on is ergonomics for one it uses the
+ergo hinge so airflow is better two it
+has a better keyboard like typing on
+this guy
+ah asus is doing such a great job with
+their keyboards they just feel so
+comfortable to type on big keycaps the
+blade 14 don't get me wrong it's it's a
+good typing experience it's just not my
+favorite the one thing that the blade 14
+does better though is rgb the perky rgb
+on this guy way better than the rgb on
+the g14 it's just hard to see on the
+white model and because the font they're
+using it just doesn't light up as bright
+even on the darker version also if you
+do decide to go on the white model i
+still suggest you go black there's a
+green tint on the keys and it's not the
+same color or same paint job as the deck
+of the keyboard even though both laptops
+have forward-facing speakers and i do
+appreciate
+the laser cut design they're now using
+on the blade they just sound better on
+the g14 they get louder they have more
+bass there's more depth to the sound
+even with thx enabled and spatial audio
+and all that stuff on the blade the
+sound quality is just very flat like it
+just doesn't sound that great they both
+have webcams the blade got updated to
+1080p they both support windows hello
+720p on the g14 but quite frankly they
+both still look pretty awful so here's
+another example of the hinge if i tilt
+these displays back
+the razer blade is going to stay whereas
+the g14 won't because the hinge on it is
+not nearly as strong as the blade again
+not a big deal but i still want to point
+it out the displays themselves are both
+qhd or qhd plus with the g14 they both
+have identical color gamut but the g14
+does get brighter so if you're working
+outdoors a lot you're probably going to
+prefer the g14 display a bit more now
+performance is what you guys really came
+here for because they're kind of similar
+in some ways but different when it comes
+to the gpu you buy the g14 you're
+getting the rx 6800s you're buying the
+blade 14 you can top it up to a 3080 ti
+my model here only has a 3070 ti so
+gpuis it's technically not fair but
+you'll see that this 3070 ti performs
+very well compared to the 6800 s now cp
+performance is interesting because this
+is using the 6900 hx and you'd expect
+that to run faster since it's
+technically an unlocked cpu which can
+have more power pushed to it compared to
+the hs that's inside of the g14 but with
+multi-core speeds the g14 was faster and
+same holds true with single core clock
+speeds if you are doing anything that
+remotely involves creative work it
+really comes down to the specific
+application you're using with photoshop
+and
+after effects this 6800 s outperformed
+3070 ti i'd imagine the 3080ti would
+push back
+if you're talking about adobe premiere
+pro
+then the blade 14 performed better than
+the g14 i also did a davinci resolve
+test because i personally used davinci
+resolve i stopped using premiere a long
+time ago and the blade of 14 slightly
+outperforms the g14 but the difference
+is negligible now because asus pushes
+their cpus a little bit hotter for
+longer the mozilla firefox compile test
+was seven minutes faster on the g14
+compared to the blade 14. so if you're a
+developer because of that 16 by 10
+display and the faster clock speeds this
+will give you better compile times but
+if you're using blender don't even look
+don't even look at a laptop with an amd
+gpu so the tgp of both gaming laptops
+are almost identical the 6800s runs up
+to 105 watts compared to 100 watts with
+the rtx 3070 ti power bricks are
+pretty much identical in size the blades
+power brick is a little bit taller
+whereas the asus version is a tiny bit
+wider this is a 240 watt power brick
+compared to 230 watts now if you're
+gaming at 1920 by 1200 or 1920 by 1080
+on the blade the 6800 s does beat out
+the 3070 ti i don't think it'd be out
+the 3080 ti but it does beat out the
+3070 ti due to the faster single core
+clock speeds and of course it can push
+those cpu speeds higher for longer
+because that's just the way this thing
+is tuned but as soon as you switch it to
+qhd okay which i imagine most of you
+will be gaming at qhd since these are
+qhd displays the 3070 ti outperforms the
+6800 s so thermals are where things get
+very interesting the g14 tends to run a
+bit hotter and with that you do get
+better performance whereas the blade 14
+is more conservative it doesn't like
+being in the 90s for too long it'll drop
+down into the 80s and with that you get
+a cooler experience there's some
+advantages and disadvantages to this the
+g14 will always be the better performer
+in terms of the cpu like this is an hs
+processor beating out an hx processor
+but longevity wise i feel like the blade
+14 has the advantage because it's taking
+the safe approach you also get way
+quieter fans with the blade 14. i know
+it doesn't look like it's way quieter in
+this graph but trust me every decibel
+makes a difference on your ears and the
+blade 14 does a better job with it now
+both laptops have a muck switch but it
+does require a restart if you're
+switching between the integrated and
+dedicated gpu vapor chamber coolers
+bigger on the blade but i do appreciate
+the little details that asus is doing
+with the design
+swappable nvme ssds but the read and
+write speeds are way better on the blade
+this is not a gen 4 drive and if it is
+it's a very slow one ram soldered onto
+the motherboard the most you can get
+with the blade is 16 gigabytes the g14
+either has 8 or 16 soldered on depending
+on the model you buy but you do get one
+slot that is upgradable so my model has
+32. battery life way better on the g14
+it's just a bigger battery 76 watt hours
+compared to 61
+under 10 hours compared to under six so
+here's the thing i really love the blade
+14. i personally think it has a better
+design build quality and look
+but the thing that's giving me a tough
+time recommending it right now is the
+price difference between both of these
+laptops like this is a 2600
+laptop with a 3070 ti compared to the
+g14 that has the 6800s the fastest gpu
+they offer for it that costs 18.99 if it
+was to come with 16 gigabytes of ram
+that's an 800
+difference i don't think the blade 14
+with its soldered on memory and worse
+battery life is worth 800 more if i had
+to choose between these two and i was
+someone who traveled a lot but also
+loved to game and i wanted really good
+battery life it's a no-brainer it's the
+g14
+if things were more equal in price then
+i could suggest the blade 14 for certain
+situations maybe if all you were doing
+is gaming maybe if you were gaming and
+doing a bit of 3d work then the nvidia
+cards make a lot more sense and with
+that you get better fan noise but as of
+right now because the price difference
+it's a no-brainer the g14 makes a lot
+more sense today i hope that answered
+all of your questions if you have any
+more let me know in the comment section
+down below like the video if you liked
+it subscribe if you haven't already and
+i'll see you guys in the next one
+[Music]

@@ -1,0 +1,334 @@
+all right guys hardest part of the video
+we're getting it right out right out of
+the gate i need to say the name of this
+laptop correctly this sponsored by
+lenovo of course
+is the lenovo slim 7i pro x not the yoga
+it is in europe but not here
+the charger that we get is a hundred
+watts over usb type-c really like to see
+it i thought at first when i saw that it
+was yellow it was lenovo's little
+proprietary charger which also in
+fairness is pretty good all right what
+else do we have in here
+it says yoga rate on it
+the good news is it's a good feeling
+laptop having a look at the i o here you
+get two thunderbolt 4 ports and you
+might want to use those for display as
+well because the hdmi we have right here
+is only 2.0 not 2.1 so if you're hooking
+up to 4k display and just use
+thunderbolts over on the other side we
+have a full size usb type a headphone
+microphone combo and oh a little webcam
+disabled i'd like to see that overall
+though this is um a very laptop looking
+laptop what i am impressed with though
+is the overall chassis rigid you can see
+some like
+macro flexing here but that's the sort
+of thing that like when the whole deck
+as one piece flexes you don't
+necessarily get in the keys like yeah if
+you look at the keys
+there's no deflection it's just if i'm
+like really pushing it
+okay the keyboard is great we also have
+excellent key stabilization so you can
+see here like if i push on the side of
+the key the whole key goes down instead
+of just like the corner going down
+that's the sort of thing that allows you
+to have just a really fast typing
+experience not have to kind of make sure
+that you're hitting the keys as opposed
+to just hitting the keys now as well as
+having a fantastic keyboard it's also
+not the laptop we're supposed to be
+looking at make sense uh this one's the
+gray this one right here is the teal
+also this one does not say yoga right
+here just says lenovo what i find
+interesting though is that the displays
+are not the same on paper they're the
+same but in
+real life they obviously are not now
+they both are 120 hertz panel they also
+have a color calibrated from the factory
+i think it's what delta e of less than
+one that is mangled good so you can
+definitely use this for your lightroom
+or video editing or what you have you
+just what i don't get is that the us
+model is glossy and the european appears
+to be matte the glossy one
+clearly has just nicer more vibrant
+colors like the blacks look darker the
+colors just look a little bit more
+colorful but at the same time i can see
+my face in it if i want to whereas the
+mac display does an exceptional job of
+not showing me all the crap that's
+around me but at the same time you know
+it's just a little bit more washed up
+especially with their great big light
+that's above my head you don't think any
+of them are touch well
+i think you're wrong
+wait what this one not touch for
+whatever reason
+the one with the matte display does not
+have touch and the one with the glossy
+screen does have touch so before i was
+kind of leaning towards the matte
+display because you know that's nice
+touch is way better i absolutely love
+touching a laptop especially one that's
+disliked how much does this thing weigh
+starts at 3.2 pounds damn that's really
+good
+now 3.2 pounds might not sound like the
+lightest thing ever there's much lighter
+laptops out there the reason that's
+impressive is because of the specs of
+this thing oh damn that is really
+impressive we have an intel i7 12700h
+not even the p they just give you the
+full fat 14 core 20 thread monster damn
+this thing has 32 gigabytes of ram at
+1600 megahertz ddr5 okay i'm
+legitimately impressed right now i
+didn't look at this before i assumed it
+was like a p series we also have one
+terabyte ssd intel wi-fi 6e iris xc
+graphics of course
+but you'll never use those because it
+also has an rtx 3050. okay this one's a
+bit more reasonable
+16 gigabytes of ram
+1650 but it also still gets the 12700h
+for that massive cpu compute also just
+want to mention that these are both on
+the intel evo platform so that basically
+just means that it gets what more than
+nine hours of battery life starts from
+sleep really fast boots up super fast
+one other kind of awkward thing is that
+it expressly states that we have to show
+you the intel evo badge cover up the
+other badging there we go intel evo we
+now get to do our startup test it should
+be real fast because it's on the evil
+platform
+and it is there we go we're in all right
+now i'm kind of very legitimately
+concerned about having a processor
+that's that powerful in a chassis that
+is this small
+it's going to thermal throttle it's
+already thermal throttling uh cpu
+package right now it's at 86 degrees
+here we go we're starting our cinebench
+run this right here isn't like a single
+one and done run to get a high score
+this is just a it's running for 10
+minutes sort of thing so we can find out
+what we're dealing with here
+cpu is at 94 95 degrees now if we open
+up
+lenovo's little vantage software here
+power and performance actually i'm just
+going to chuck it right into extreme
+performance mode there we go it looks
+like that we're at 95 degrees celsius on
+the cpu that's like perfectly fine what
+you have to realize is that the on
+modern cpus they don't care if they're
+running at 100 degrees the whole time if
+you want in the bios you can set it to
+go to 115 and it still will be perfectly
+fine and our cpu
+she's struggling now you might see that
+this is
+you know for one it's pretty loud at the
+moment and also like it isn't going all
+that fast it seems like we're doing all
+core 2.4 gigahertz which sounds kind of
+slow
+but we just need to put that into
+context for a second here this was able
+to manage a bit over 11 000 points in
+cinebench r23 for comparison um an i9
+9900
+that was a 5 gigahertz 8 core processor
+from just a couple generations ago on a
+desktop that's comparable to like a
+ryzen 5 5600 x it's a very competent
+little machine now let's try and just
+get a proper score we'll turn off you
+know obs here stop recording we'll give
+it a second to cool down maybe even i'll
+pop prop it up i think it'll love that
+damn
+all right turns out you know screen
+recording at the same time uses up some
+resources this thing was able to do 13
+576 in cinebench that is freaking great
+for
+like look at this thing it's so slim how
+did they do that
+i am genuinely impressed with this
+laptop now i don't want to mention this
+tape definitely helped us out that
+probably i don't know got us five maybe
+even 10 more watts on the processor oh
+we haven't even talked about the
+trackpad the trackpad is great it's big
+it's glass topped it's nice to use it's
+a good trackpad all right thank you eu
+version of the laptop you've served us
+well but you're not as fast as our north
+american one
+the number one game in the world
+according to me
+malham
+medium settings large 1080p we're
+looking at what 30 fps okay we can do
+better than that i think extreme
+performance there we go yep that got us
+20 fps fantastic this is a fantastic
+screen for playing games on like 3k
+excellent also having the 120 hertz even
+though we're only getting 60 fps in this
+game makes everything so much more
+responsive
+even has g-sync it's basically a gaming
+laptop but you don't have to like have
+it be so heavy it is getting a little
+bit hot up here well we'll play this
+until i die oh i'm so dead
+oh do you see that dodge roll i died all
+right well that's enough valheim for
+this evening
+that was not a laptop issue that was
+purely a skill issue uh what else oh
+crabrif grab rave almost open it up too
+fast let's have a gander at that
+how many this is it 400
+well the speakers are fine we want to
+just be clear here it's not incredible
+compared to some of the top-end laptops
+but if you're comparing it to a laptop
+from a couple years ago it's the same as
+the best ones that existed then it's
+this large you can only make your
+speakers so good this is our webcam
+right here i feel like if you took the
+time to set up the lighting this camera
+could be quite good i'm really blown out
+kind of right in
+my forehead and stuff it's kind of weird
+yeah it's a very challenging scene i
+want to be clear and once i turn it into
+the pure camera mode it seems to figure
+it out like this is really good i'll
+just take photo another one i'll smile
+for this one it exposed perfectly for my
+face for the photo okay we're gonna go
+for a little tour here mr laptop okay
+this is still a very challenging scene
+but it's doing slightly better
+but we have so many lights and stuff
+okay
+i'm sorry andy one second
+it's it's still
+not quite exposing
+correctly the webcam i would say if you
+put in the work it's going to be really
+good if you have kind of a weird scene
+like we have here it's gonna struggle
+that said for a zoom call like it's more
+than good enough when there's hello
+facial recognition it has it it's my
+favorite way to get into a computer it
+just works great you open it up and then
+you get logged in love it now what we
+get to do is take it apart
+all right let's see how repairable she
+is
+okay okay well in here we get a 70 watt
+hour battery they say it'll get you 13
+hours of battery life and more like 9
+under load one thing i want to just have
+a chat about for a second is windows
+modern standby i'm gonna bring it up in
+every single short circuit from now on
+until it's fixed uh lenovo go to
+microsoft and just kick them in the nuts
+it's one of the worst things they've
+done in years and so every single laptop
+including this one will do just this
+really annoying thing where for the most
+part it's fine and the battery lasts and
+it's great then sometimes you put it in
+your backpack and it wakes up and then
+you take it out and it's burning hot and
+your battery's dead and everyone's very
+sad it's been happening for like two
+years at this point just go to microsoft
+and get very mad at them modern standby
+it's awful
+fortunately though this laptop has fast
+charging so they say they'll be able to
+get four hours of battery life off of
+half an hour of charging the
+upgradeability is about what you expect
+for a laptop in this class and it looks
+like you cannot upgrade the ram so make
+sure you get how much you want from the
+factory you can swap your wi-fi card
+right there ssd is removable the battery
+also comes out and it looks like
+underneath that even the track pad can
+be removed which is very nice i am very
+surprised that this cooler is able to do
+45 watts of cooling though like we saw
+it do that it clearly can the thin pitch
+on these fans they are just
+super duper small fins they did a really
+good job at even though they were kind
+of on the loud side not being annoying
+that's like very key okay jake we need
+to figure out the price point of this
+laptop having a look in here it's pretty
+clear that the whole chassis was cnc
+machined like we can look in here that's
+why it's so rigid that's why it feels
+amazing given the specs
+and the screen and the chassis this
+thing has to be very expensive you're
+guessing 1400 this thing feels like 22 i
+think we'll have the actual price right
+here
+if it's lower than 2 000 can we have
+balloons
+it's a good laptop i'm surprised how
+much power they were able to cram into
+something that's this small yeah if
+you're like a content creator video
+editor like gamer it's a pretty
+fantastic little machine i can't like
+you know thumbs up thumbs down it
+because we don't know the price and it's
+sponsored take from that what you wish
+so huge thanks to lenovo for sponsoring
+this video if you guys want you can just
+like start sending us laptops you don't
+need to sponsor all of them this is just
+a good laptop anyway
+but yeah if you guys want to purchase it
+links will be down below and just have a
+fantastic day hit like get subscribed
+so long
