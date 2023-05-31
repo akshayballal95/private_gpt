@@ -1,6 +1,5 @@
 from langchain import ConversationChain, PromptTemplate
 from youtube_transcript_api import YouTubeTranscriptApi
-import pandas as pd
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.indexes import  VectorstoreIndexCreator
 from langchain.document_loaders import TextLoader, DirectoryLoader
@@ -10,6 +9,9 @@ from langchain.memory import VectorStoreRetrieverMemory
 
 import streamlit as st
 from streamlit_chat import message
+from dotenv import load_dotenv
+
+load_dotenv()
 
 video_links = ["9lVj_DZm36c", "ZUN3AFNiEgc", "8KtDLu4a-EM"]
 
@@ -20,16 +22,14 @@ else:
 for video_id in video_links:
     dir = os.path.join('transcripts', video_id)
     transcript = YouTubeTranscriptApi.get_transcript(video_id)
-    
-    df = pd.DataFrame.from_records(transcript)
-    df['text']
+
     with open(dir+'.txt', 'w') as f:
-        for line in df['text']:
-            f.write(f"{line}\n")
+     for line in transcript:
+            f.write(f"{line['text']}\n")
 
 
 def chat(question):
-    OPENAI_API_KEY = "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"
+    OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
     loader = DirectoryLoader(path='./', glob = "**/*.txt", loader_cls=TextLoader,
                             show_progress=True)
 
