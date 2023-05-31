@@ -1,3 +1,4 @@
+from langchain import ConversationChain, PromptTemplate
 from youtube_transcript_api import YouTubeTranscriptApi
 import pandas as pd
 from langchain.embeddings import OpenAIEmbeddings
@@ -10,6 +11,10 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
+from langchain.memory import VectorStoreRetrieverMemory
+
+import streamlit as st
+from streamlit_chat import message
 
 video_links = ["9lVj_DZm36c", "ZUN3AFNiEgc", "8KtDLu4a-EM"]
 
@@ -33,13 +38,16 @@ for video_id in video_links:
 loader = DirectoryLoader(path='./', glob = "**/*.txt", loader_cls=TextLoader,
                          show_progress=True)
 
-embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
+def chat(question):
+    OPENAI_API_KEY = "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"
+    loader = DirectoryLoader(path='./', glob = "**/*.txt", loader_cls=TextLoader,
+                            show_progress=True)
 
-index = VectorstoreIndexCreator(embedding=embeddings).from_loaders([loader])
+index = VectorstoreIndexCreator(embedding=OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)).from_loaders([loader])
 
 while True:
     print()
     question = input("Question: ")
-    result = index.query(question)
+    result = index.query(f'{question}', llm=OpenAI(temperature=0, openai_api_key=OPENAI_API_KEY))
     print()
     print(result)
