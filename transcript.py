@@ -1,11 +1,12 @@
 from langchain import ConversationChain, PromptTemplate
 from youtube_transcript_api import YouTubeTranscriptApi
-from langchain.embeddings import OpenAIEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.indexes import  VectorstoreIndexCreator
 from langchain.document_loaders import TextLoader, DirectoryLoader
 from langchain.llms import OpenAI
 import os
 from langchain.memory import VectorStoreRetrieverMemory
+from langchain.callbacks import get_openai_callback
 
 import streamlit as st
 from streamlit_chat import message
@@ -28,18 +29,18 @@ for video_id in video_links:
             f.write(f"{line['text']}\n")
 
 
-
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 loader = DirectoryLoader(path='./', glob = "**/*.txt", loader_cls=TextLoader,
                         show_progress=True)
 
-index = VectorstoreIndexCreator(embedding=OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)).from_loaders([loader])
+embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+
+index = VectorstoreIndexCreator(embeddings= embeddings).from_loaders([loader])
 retriever = index.vectorstore.as_retriever(search_kwargs=dict(k=5))
 memory = VectorStoreRetrieverMemory(retriever=retriever)
 
-llm = OpenAI(temperature=0.7, openai_api_key=OPENAI_API_KEY) # Can be any valid LLM
+llm = OpenAI(temperature=0) # Can be any valid LLM
 _DEFAULT_TEMPLATE = """The following is a friendly conversation between a human and an AI. The AI is talkative and provides lots of specific details from its context. If the AI does not know the answer to a question, it truthfully says it does not know.
-
+Do not make up answers and provide only information that you have.
 Relevant pieces of previous conversation:
 {history}
 
@@ -81,7 +82,10 @@ def get_text():
 user_input = get_text()
 
 if user_input:
-    output = conversation_with_summary.predict(input = user_input)
+    with get_openai_callback() as cb:
+        output=conversation_with_summary.predict(input = "Hi How are you")
+        print(cb)
+   
 
     st.session_state.past.append(user_input)
     st.session_state.generated.append(output)
