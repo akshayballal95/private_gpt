@@ -34,7 +34,7 @@ loader = DirectoryLoader(path='./', glob = "**/*.txt", loader_cls=TextLoader,
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
-index = VectorstoreIndexCreator(embeddings= embeddings).from_loaders([loader])
+index = VectorstoreIndexCreator(embedding= embeddings).from_loaders([loader])
 retriever = index.vectorstore.as_retriever(search_kwargs=dict(k=5))
 memory = VectorStoreRetrieverMemory(retriever=retriever)
 
@@ -83,7 +83,7 @@ user_input = get_text()
 
 if user_input:
     with get_openai_callback() as cb:
-        output=conversation_with_summary.predict(input = "Hi How are you")
+        output=conversation_with_summary.predict(input = user_input)
         print(cb)
    
 
