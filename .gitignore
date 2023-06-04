@@ -2,3 +2,5 @@ ggml-mpt-7b-chat.bin
 .chroma
 .env
 ggml-mpt-7b-instruct.bin
+hugging_face.py
+huggingface.ipynb
